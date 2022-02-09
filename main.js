@@ -4,7 +4,8 @@ const root = new Vue(
     {
         el: '#test',
         data: {
-            frase: 'Questa è una prova di Vue'
+            frase: 'Questa è una prova di Vue',
+            img: 'img 1.jpg'
         }
     }
 );
